@@ -59,6 +59,6 @@ def add_cat(name, views=0, likes=0):
 
 
 # Start execution here!
-#if  __name__=='__main__':
- #  print('Starting Rango population script...')
-  # populate()
+if  __name__=='__main__':
+   print('Starting Rango population script...')
+   populate()
